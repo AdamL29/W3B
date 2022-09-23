@@ -1,0 +1,31 @@
+html{
+    background-color: bisque;
+    font-size: 1pc;
+}
+
+div{
+    font-size: 40px;
+}
+
+h1{
+    color: chartreuse;
+    font-size: 25px;
+}
+
+#one{
+    color:  orangered;
+    font-size: 0.8rem;
+}
+
+#two{
+    border: 5px black solid;
+    width: 50vw;
+    font-size: 1.3em;
+}
+
+.finals{
+    border: 2pt red dashed;
+    color: goldenrod;
+    height: 15vh;
+    width: 75%;
+}
